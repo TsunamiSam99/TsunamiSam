@@ -1,3 +1,3 @@
 # TsunamiSam
 
-# A Website created for showcasing the squiggliest Sus in the surf!
+# A website created for showcasing the squiggliest Sus in the surf!
